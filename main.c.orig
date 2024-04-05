@@ -13,9 +13,9 @@ Initial security()
 
 
 }
-
+<<<<<<< HEAD
 this is a change in feature1 branch with security patch.
 =======
 
 this is a change in feature2 branch with security patch.
-
+>>>>>>> feature2
