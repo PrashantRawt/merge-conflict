@@ -1,11 +1,11 @@
 pseudo code
 {
-feature1 branch()
+Initial function()
 {
   //Sample Code
 }
 
-feature2 branch()
+Initial security()
 {
  //Sample Code
 }
